@@ -1,0 +1,6 @@
+<html>
+<body>
+<h2> This is second page</h2>
+This is defined for our second view.
+</body>
+</html>
